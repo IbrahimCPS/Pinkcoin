@@ -1,0 +1,2 @@
+# Pinkcoin
+Pinkoin project!
